@@ -6,7 +6,5 @@ First, the browser makes a series of http requests to a given server, that serve
 
 Web assembly is a way to shortcircuit the inherint limitation of javascript and feed the DOM and your brwoser some binary or near machine code representation which can interact at a low level with the host machine. This means that for graphics intensive applications, it will become possible to make your application run fast, really really fast.
 
-However, the tradeoff is that you have to ship a web assembly file named \(wasm\) which contains the computational power you need and then import it during the javascript execution timeline. In Chapter 2 we will talk about specifically how to do this with the current 
-
-
+However, the tradeoff is that you have to ship a web assembly file named \(wasm\) which contains the computational power you need and then import it during the javascript execution timeline. In Chapter 2 we will talk about specifically how to do this with the current api for javascript. But for now, just know that the compiled web assembly module can be accessed in hte global window object through the WebAssembly class with it's own streaming methods and protocols.
 
