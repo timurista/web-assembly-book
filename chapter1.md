@@ -10,3 +10,7 @@ However, the tradeoff is that you have to ship a web assembly file named \(wasm\
 
 
 
+Note executed in sandbox environment in web browser after a verification step
+
+
+
