@@ -6,4 +6,5 @@
 * [Javascript WebAssembly API](javascript-webassembly-api.md)
 * [Web Assembly Under the hood](web-assembly-under-the-hood.md)
 * [References](references.md)
+* [Simple Example](simple-example.md)
 
